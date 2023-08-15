@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665096837 source:c:\users\igorr\onedrive\Área de trabalho\faculdade\1 - semestre\algoritimos e estrutura de dados i\lista 5\codigos lista 5\lista5-atividade06\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
